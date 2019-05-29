@@ -8,7 +8,7 @@ Funcionalidade: Cadastro de Usuário
 
 Cenario: Cadastro com sucesso
 Dado que estou na pagina de cadastro
-Quando preencher somente nome eemail como campo obrigátorio
+Quando preencher somente nome e email como campo obrigátorio
 |Nome|Email|
 |Fernanda|fernanda12456@gmail.com.br|
 E clicar em criar
